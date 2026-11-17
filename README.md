@@ -1,1 +1,1 @@
-# eco-calculator
+This eco-calculator helps you track your daily carbon footprint by analyzing your energy use, travel habits, and waste. With simple tips and clear results, the app makes it easy to adopt greener habits and protect the planet.
